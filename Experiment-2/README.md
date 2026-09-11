@@ -1,7 +1,7 @@
 # Experiment 2 — System Design of Netflix
 
-**Name:** Swaroop Kumar
-**UID:** 24BCS12717
+**Name:** Sonia
+**UID:** 24BCS12732
 **Subject:** System Design
 
 ---
